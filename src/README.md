@@ -2,6 +2,7 @@
 icon: lightbulb
 index: true
 title: 使用說明
+date: 2024-05-06
 ---
 
 ## 歡迎使用數位學習平台

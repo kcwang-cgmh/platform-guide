@@ -11,6 +11,9 @@ importers:
       '@vuepress/bundler-vite':
         specifier: 2.0.0-rc.9
         version: 2.0.0-rc.9(@types/node@20.12.8)(sass@1.76.0)
+      '@vuepress/plugin-git':
+        specifier: 2.0.0-rc.22
+        version: 2.0.0-rc.22(vuepress@2.0.0-rc.9(@vuepress/bundler-vite@2.0.0-rc.9(@types/node@20.12.8)(sass@1.76.0))(vue@3.4.26))
       vue:
         specifier: ^3.4.23
         version: 3.4.26
