@@ -4,22 +4,18 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "Demo",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-    },
-    {
-      text: "Docs",
+      text: "個人學習歷程",
       icon: "book",
-      prefix: "guide/",
+      prefix: "portfolio/",
+      link: "portfolio/",
       children: "structure",
     },
     {
-      text: "Slides",
-      icon: "person-chalkboard",
-      link: "https://plugin-md-enhance.vuejs.press/guide/content/revealjs/demo.html",
+      text: "平台管理中心",
+      icon: "gears",
+      prefix: "backstage/",
+      link: "backstage/",
+      children: "structure",
     },
   ],
 });
