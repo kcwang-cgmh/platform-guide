@@ -3,18 +3,12 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
-
-  author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
-  },
+  darkmode: "disable",
+  pure: true,
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
-
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  logo: "/images/logo.png",
 
   docsDir: "src",
 
@@ -28,27 +22,7 @@ export default hopeTheme({
 
   displayFooter: true,
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
-
-  metaLocales: {
-    editLink: "Edit this page on GitHub",
-  },
-
   plugins: {
-    // Note: This is for testing ONLY!
-    // You MUST generate and use your own comment service in production.
-    comment: {
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },
-
     components: {
       components: ["Badge", "VPCard"],
     },
