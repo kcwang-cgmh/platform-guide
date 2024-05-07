@@ -1,11 +1,10 @@
 ---
-icon: lightbulb
-index: true
-title: 使用說明
+icon: home
+title: 數位學習平台操作手冊
 date: 2024-05-06
+pageInfo: false
+toc: false
 ---
-
-## 歡迎使用數位學習平台
 
 這份文件是關於數位學習平台的使用說明
 

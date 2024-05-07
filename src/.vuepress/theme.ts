@@ -4,14 +4,14 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   darkmode: "disable",
-  pure: true,
+  print: false,
   iconAssets: "fontawesome-with-brands",
   logo: "/images/logo.png",
   docsDir: "src",
   author: {
     name: "長庚醫科-王克勤",
   },
-  pageInfo: ['Author', 'Date'],
+  pageInfo: ['Author', 'Date', 'Category', 'Tag'],
 
   // navbar
   navbar,
