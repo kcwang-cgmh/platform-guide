@@ -6,6 +6,10 @@ category:
   - 評量管理
 ---
 
+## 操作路徑
+
+左側選單 > ```評量```
+
 ## 畫面說明
 
 ![評量總覽頁面](./images/assessment-overview-1.png)

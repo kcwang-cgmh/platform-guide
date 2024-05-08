@@ -1,9 +1,9 @@
 ---
-title: 評量管理
+title: 訓練計畫管理
 pageInfo: false
 index: false
 dir:
-    order: 4
+    order: 5
 ---
 
 <Catalog />
