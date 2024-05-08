@@ -1,5 +1,4 @@
 ---
-icon: home
 title: 數位學習平台操作手冊
 date: 2024-05-06
 pageInfo: false

@@ -1,6 +1,5 @@
 ---
 title: 平台管理中心
-icon: gears
 index: false
 date: 2024-05-06
 ---

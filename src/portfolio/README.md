@@ -1,6 +1,5 @@
 ---
 title: 個人學習歷程
-icon: book
 index: false
 date: 2024-05-06
 ---

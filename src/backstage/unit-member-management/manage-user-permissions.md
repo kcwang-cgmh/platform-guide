@@ -1,8 +1,7 @@
 ---
 title: 調整人員權限
 date: 2024-05-07
-dir:
-  order: 3
+order: 4
 category:
   - 成員管理
 ---
